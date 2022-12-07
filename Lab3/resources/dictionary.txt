@@ -1,0 +1,6 @@
+world|мир
+women|женщины
+men and women|люди
+men|мужчины
+stage|театр
+players|актеры
