@@ -42,8 +42,8 @@ public class Main {
         System.out.println(StreamMethods.getSumOfEvenNum(array62));
         System.out.println();
 
-        System.out.println("-------------convertToMapq--------------");
-        List<String> list7 = List.of("one", "tree", "four");
+        System.out.println("-------------convertToMap--------------");
+        List<String> list7 = List.of("one", "three", "four");
         System.out.println(StreamMethods.convertToMap(list7));
         System.out.println();
     }
